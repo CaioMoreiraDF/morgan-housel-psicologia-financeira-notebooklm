@@ -1,4 +1,5 @@
 📚 Caderno Temático — Psicologia Financeira com Morgan Housel
+
 🎯 Contexto
 
 Este projeto foi desenvolvido como parte de um desafio da plataforma DIO, com o objetivo de explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa.
