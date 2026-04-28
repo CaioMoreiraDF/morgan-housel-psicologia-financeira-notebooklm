@@ -1,9 +1,10 @@
-# Prompts Reutilizáveis
+# Prompts Reutilizáveis — Revisão de Psicologia Financeira
 
-Explique [conceito] com exemplos práticos.
+## 1. Revisão Conceitual
+Explique os principais conceitos de psicologia financeira de Morgan Housel com exemplos práticos do dia a dia.
 
-Resuma [tema] em tópicos.
+## 2. Aplicação Prática
+Como aplicar os princípios de psicologia financeira para melhorar decisões de consumo, investimento e planejamento financeiro?
 
-Quais são os erros mais comuns sobre [tema]?
-
-Como aplicar [conceito] na prática?
+## 3. Reflexão Crítica
+Quais vieses comportamentais mais afetam minhas decisões financeiras e como posso mitigá-los na prática?
