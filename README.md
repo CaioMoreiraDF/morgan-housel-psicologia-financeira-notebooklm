@@ -16,13 +16,16 @@ O tema escolhido foi o estudo das teorias de comportamento financeiro do autor M
 ---
 
 ## 📎 Curadoria de Fontes
-As seguintes fontes foram utilizadas no NotebookLM:
+As fontes completas utilizadas estão disponíveis em:
 
-- Livro: *The Psychology of Money* — Morgan Housel
-- Entrevistas com Morgan Housel (YouTube / Podcasts)
-- Artigos publicados no blog Collaborative Fund
-- Conteúdos em formato de audiobook
-- Palestras sobre comportamento financeiro
+👉 ./fontes/links-fontes.md
+
+---
+
+## 🔗 NotebookLM
+Acesse o caderno temático utilizado no projeto:
+
+👉 https://notebooklm.google.com/notebook/9c428d8a-01d3-4974-931d-60a9e907f132
 
 ---
 
