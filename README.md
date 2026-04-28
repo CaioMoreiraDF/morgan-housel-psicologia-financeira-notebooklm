@@ -1,82 +1,94 @@
-📚 Caderno Temático — Psicologia Financeira com Morgan Housel
+# 📚 Caderno Temático — Psicologia Financeira com Morgan Housel
 
-🎯 Contexto
-
+## 🎯 Contexto
 Este projeto foi desenvolvido como parte de um desafio da plataforma DIO, com o objetivo de explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa.
 
 O tema escolhido foi o estudo das teorias de comportamento financeiro do autor Morgan Housel, com foco em como fatores emocionais, experiências pessoais e vieses cognitivos influenciam decisões financeiras.
 
-🎯 Objetivos de Estudo
+---
 
-Compreender os principais conceitos de psicologia financeira
-Identificar padrões comportamentais nas decisões financeiras
-Analisar o impacto das emoções nos investimentos
-Criar um material estruturado para revisões futuras
+## 🎯 Objetivos de Estudo
+- Compreender os principais conceitos de psicologia financeira
+- Identificar padrões comportamentais nas decisões financeiras
+- Analisar o impacto das emoções nos investimentos
+- Criar um material estruturado para revisões futuras
 
-📎 Curadoria de Fontes
+---
 
+## 📎 Curadoria de Fontes
 As seguintes fontes foram utilizadas no NotebookLM:
 
-The Psychology of Money
-Entrevistas com Morgan Housel (YouTube / Podcasts)
-Artigos publicados no blog Collaborative Fund
-Conteúdos em formato de audiobook
-Palestras sobre comportamento financeiro
+- Livro: *The Psychology of Money* — Morgan Housel
+- Entrevistas com Morgan Housel (YouTube / Podcasts)
+- Artigos publicados no blog Collaborative Fund
+- Conteúdos em formato de audiobook
+- Palestras sobre comportamento financeiro
 
-🧠 Engenharia de Prompts e Aprendizados
+---
 
-🔹 Prompt 1:
+## 🧠 Engenharia de Prompts e Aprendizados
 
+### 🔹 Prompt 1
+**Pergunta:**
 Quais são os principais conceitos de psicologia financeira segundo Morgan Housel?
 
-Resultado:
-Resumo geral dos conceitos centrais.
-
-Problema:
+**Problema:**
 Resposta superficial.
 
-Ajuste realizado:
+**Ajuste:**
+Explique os conceitos com exemplos práticos do dia a dia.
 
-Explique os conceitos com exemplos práticos do dia a dia
+---
 
-🔹 Prompt 2:
+### 🔹 Prompt 2
+**Pergunta:**
+Explique o papel da sorte e do risco nas decisões financeiras.
 
-Explique o papel da sorte e do risco nas decisões financeiras
-
-Insight:
+**Insight:**
 Resultados financeiros não dependem apenas de habilidade, mas também de fatores fora do controle.
 
-🔹 Prompt 3:
+---
 
+### 🔹 Prompt 3
+**Pergunta:**
 Quais hábitos financeiros são mais importantes segundo Morgan Housel?
 
-Resultado:
+**Resultado:**
 Foco em consistência, disciplina e controle emocional.
 
-💡 Aprendizado importante:
+---
 
+## 💡 Principal Aprendizado
 Prompts mais específicos e contextualizados geram respostas significativamente melhores.
 
-📘 Miniguia de Estudo
+---
 
-📌 Resumo Estruturado
+## 📘 Miniguia de Estudo
 
-Dinheiro está mais ligado ao comportamento do que à inteligência
-Decisões financeiras são fortemente influenciadas por emoções
-Consistência é mais importante que retornos extraordinários
-Evitar grandes erros é mais eficaz do que buscar grandes acertos
-O tempo é um dos fatores mais importantes nos investimentos
+### 📌 Resumo Estruturado
+- Dinheiro está mais ligado ao comportamento do que à inteligência
+- Decisões financeiras são fortemente influenciadas por emoções
+- Consistência é mais importante que retornos extraordinários
+- Evitar grandes erros é mais eficaz do que buscar grandes acertos
+- O tempo é um dos fatores mais importantes nos investimentos
 
-📖 Glossário
+---
 
-Viés comportamental: tendência psicológica que influencia decisões
-Margem de segurança: proteção contra incertezas
-Juros compostos: crescimento exponencial ao longo do tempo
-Risco vs Sorte: eventos imprevisíveis que afetam resultados
+### 📖 Glossário
+- **Viés comportamental:** tendência psicológica que influencia decisões
+- **Margem de segurança:** proteção contra incertezas
+- **Juros compostos:** crescimento exponencial ao longo do tempo
+- **Risco vs Sorte:** eventos imprevisíveis que afetam resultados
 
-🧰 Prompts Reutilizáveis
+---
 
-"Explique [conceito] com exemplos práticos"
-"Resuma este conteúdo em 5 pontos principais"
-"Quais são os erros mais comuns sobre [tema]?"
-"Como aplicar isso na vida real?"
+### 🧰 Prompts Reutilizáveis
+- "Explique [conceito] com exemplos práticos"
+- "Resuma este conteúdo em 5 pontos principais"
+- "Quais são os erros mais comuns sobre [tema]?"
+- "Como aplicar isso na vida real?"
+
+---
+
+## 🚀 Sobre o Projeto
+Este repositório demonstra o uso da IA como ferramenta de aprendizado ativo, com foco em pensamento crítico, curadoria de conteúdo e organização de conhecimento — habilidades altamente valorizadas no mercado de tecnologia.
