@@ -18,7 +18,7 @@ O tema escolhido foi o estudo das teorias de comportamento financeiro do autor M
 ## 📎 Curadoria de Fontes
 As fontes completas utilizadas estão disponíveis em:
 
-👉 ./fontes/links-fontes.md
+👉 [fontes/links-fontes.md](./fontes/links-fontes.md)
 
 ---
 
@@ -31,67 +31,69 @@ Acesse o caderno temático utilizado no projeto:
 
 ## 🧠 Engenharia de Prompts e Aprendizados
 
-### 🔹 Prompt 1
-**Pergunta:**
-Quais são os principais conceitos de psicologia financeira segundo Morgan Housel?
+Durante o estudo no NotebookLM, foram utilizados prompts iterativos para aprofundar os conceitos e melhorar a qualidade das respostas geradas. O processo evidenciou como refinamentos de prompt impactam diretamente a profundidade analítica da IA.
 
-**Problema:**
-Resposta superficial.
+### Prompt 1 — Conceituação Base
+**Pergunta:** O que é Psicologia Financeira?
 
-**Ajuste:**
-Explique os conceitos com exemplos práticos do dia a dia.
+**Aprendizado Obtido:**
+Identificação de que sucesso financeiro depende mais de comportamento do que de inteligência técnica, incluindo fatores como gestão emocional, ego, história pessoal e racionalidade prática.
 
 ---
 
-### 🔹 Prompt 2
-**Pergunta:**
-Explique o papel da sorte e do risco nas decisões financeiras.
+### Prompt 2 — Habilidades Comportamentais
+**Pergunta:** Segundo Housel, quais são as habilidades comportamentais corretas com relação ao dinheiro?
 
-**Insight:**
-Resultados financeiros não dependem apenas de habilidade, mas também de fatores fora do controle.
+**Aprendizado Obtido:**
+Mapeamento de competências como paciência, humildade, gestão de ego, controle emocional e mentalidade de sobrevivência financeira.
 
 ---
 
-### 🔹 Prompt 3
-**Pergunta:**
-Quais hábitos financeiros são mais importantes segundo Morgan Housel?
+### Prompt 3 — Definição de “Suficiente”
+**Pergunta:** Como definir quanto é suficiente para evitar riscos desnecessários?
 
-**Resultado:**
-Foco em consistência, disciplina e controle emocional.
+**Aprendizado Obtido:**
+Compreensão do conceito de "enough" como ferramenta de gestão de risco e controle de ambição excessiva.
+
+---
+
+### Prompt 4 — Fortuna Invisível
+**Pergunta:** Converse sobre o que essas fontes dizem de "Fortuna é o que você não vê".
+
+**Aprendizado Obtido:**
+Diferenciação entre riqueza visível e patrimônio real, reforçando a ideia de que ativos acumulados importam mais que sinais externos de riqueza.
+
+---
+
+### Prompt 5 — Vieses Comportamentais
+**Pergunta:** Liste os principais vieses comportamentais que afetam decisões financeiras.
+
+**Aprendizado Obtido:**
+Levantamento de vieses como FOMO, excesso de confiança, aversão à perda, comparação social e viés de confirmação.
+
+---
+
+### Prompt 6 — Aplicação Prática
+**Pergunta:** Como aplicar psicologia financeira no dia a dia?
+
+**Aprendizado Obtido:**
+Conversão dos conceitos teóricos em hábitos práticos de consumo, poupança, investimento e gestão emocional.
 
 ---
 
 ## 💡 Principal Aprendizado
-Prompts mais específicos e contextualizados geram respostas significativamente melhores.
+Prompts mais específicos, contextuais e orientados à aplicação prática geram respostas significativamente mais profundas, úteis e acionáveis.
 
 ---
 
 ## 📘 Miniguia de Estudo
 
-### 📌 Resumo Estruturado
-- Dinheiro está mais ligado ao comportamento do que à inteligência
-- Decisões financeiras são fortemente influenciadas por emoções
-- Consistência é mais importante que retornos extraordinários
-- Evitar grandes erros é mais eficaz do que buscar grandes acertos
-- O tempo é um dos fatores mais importantes nos investimentos
-
----
-
-### 📖 Glossário
-- **Viés comportamental:** tendência psicológica que influencia decisões
-- **Margem de segurança:** proteção contra incertezas
-- **Juros compostos:** crescimento exponencial ao longo do tempo
-- **Risco vs Sorte:** eventos imprevisíveis que afetam resultados
-
----
-
-### 🧰 Prompts Reutilizáveis
-- "Explique [conceito] com exemplos práticos"
-- "Resuma este conteúdo em 5 pontos principais"
-- "Quais são os erros mais comuns sobre [tema]?"
-- "Como aplicar isso na vida real?"
+### Materiais Consolidados
+- [Resumo Estruturado](./miniguia/resumo.md)
+- [Glossário](./miniguia/glossario.md)
+- [Prompts Reutilizáveis](./miniguia/prompts.md)
 
 ---
 
 ## 🚀 Sobre o Projeto
-Este repositório demonstra o uso da IA como ferramenta de aprendizado ativo, com foco em pensamento crítico, curadoria de conteúdo e organização de conhecimento — habilidades altamente valorizadas no mercado de tecnologia.
+Este repositório demonstra o uso da IA como ferramenta de aprendizado ativo, com foco em pensamento crítico, curadoria de conteúdo, engenharia de prompts e organização de conhecimento — habilidades altamente valorizadas no mercado de tecnologia.
